@@ -1,4 +1,4 @@
-# write your code here
+# tic-tac-toe
 def print_table(_table):
     print('-' * 9)
     for r in range(3):
